@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @roslink
 - 👀 Science and Technology. Security. Freedom of speech. Humanities. Astrophysics. Astronomy. Computer Science. Chemistry. Biology.
-- 🌱 Python.
+- 🌱 Python. Rust. 
 - 💞️ Anything interesting!
